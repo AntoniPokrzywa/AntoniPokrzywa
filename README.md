@@ -23,6 +23,6 @@
 
 ## 💼 Projects
 ### 🚲 <a href="https://github.com/AntoniPokrzywa/Sociale/" style ="color: black">Sociale</a>
-*A web application that offers full user management, including login, password reset, and contact forms. It integrates with the Google Maps API to manage bikes in real time, allowing users to locate bikes, start rides by scanning a QR code, and end rides in designated areas.*
+*A web application that offers full user management, including login, password reset, and contact forms. It integrates with the Mapbox API to manage bikes in real time, allowing users to locate them, start rides by scanning a QR code, and end rides in designated areas.*
 
-**Technologies:** Django, REST API, Google Maps API, SMTP, HTML, CSS, JavaScript
+**Technologies:** Django, REST API, Mapbox API, SMTP, HTML, CSS, JavaScript
